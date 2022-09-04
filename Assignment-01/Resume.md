@@ -1,5 +1,8 @@
-# Professional resume of Priyanka
-![](pic.jpg)
+# RESUME
+<img src="pic.jpg" height="180" width="180" >
+
+
+
 # SARAH PRIYANKA BALUMURI
 ## Contact information : 
 - phone : +1 667-910-4779
@@ -21,7 +24,7 @@
 ### Dental Healthcare Database :
 - Designed a healthcare database to store data regarding oral health checkup. 
 - This database stores information about patient, physician, diagnosis and treatment.
-- Performed queries to extract the desired outcomes. 
+- Performed queries to extract the desired outcomes. *
 - The reports generated from the database are analyzed for the detection of any outbreak in the community.
 ## Interpersonal skills :
 - Excellent communication skills and written skills.
@@ -30,12 +33,12 @@
 - Adaptability and creativity.
 ## Technical Skills :
 ### Programming Languages: 
-- #### R, python (Basic)
+- R, python (Basic)
 ###  Query Languages:
-- #### SQL
+- SQL
 ###  Tools:
-- #### MySQL, Excel, MS Access, PowerPoint.
+- MySQL, Excel, MS Access, PowerPoint.
 ### Healthcare Technologies:
-- #### HIPPA, EDI (270/271,835,837), HITECH ACT, HL7, CPT, ICD-10
+- HIPPA, EDI (270/271,835,837), HITECH ACT, HL7, CPT, ICD-10
 ### Certifications :
-- #### SQL for data science in Udemy.
+- SQL for data science in Udemy.
