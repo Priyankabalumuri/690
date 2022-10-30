@@ -35,6 +35,13 @@ China produces the least amount of electricity from natural gas sources among th
 
 India produces the most amount of electricity from oil sources. About half of the electricity(47%) produced by India is from oil sources. China produces the least amount of electricity from oil sources (6.7% of total). About 21% of the electricity produced by United States comes from Oil sources. About 1/4th of the electricity produced by United Kingdom comes from oil sources. 
 
+# Electricity produced from coal sources- 
+
+![Screenshot_20221029_094738](https://user-images.githubusercontent.com/112661889/198858917-c4fe6297-04e3-459e-a5c2-58c5732daa18.png)
+
+In every country, coal is used to generate electricity. According to data from the IEA, coal-fired power plants will continue to produce 22% of the world's electricity in 2040, keeping coal as the single greatest source of electricity globally. Coal-fired power plants currently provide 37% of the world's electricity.
+
+Among these four countries, China produces the most electricity from coal. About 3/4th of the electricity consumed by China comes from coal. Next most production of electricity from coal is by India. India produces about 67% of its electricity from coal. United Kingdom is the least producer of electricity from coal with about 1/4th of the electricity coming from coal. USA produces nearly half of its electricity from coal. The major source of electricity from all these nations comes from coal.  
 
 
 
