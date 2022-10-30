@@ -19,6 +19,17 @@ USA, UK, India and China are among the top 10 countries with highest GDP in 2022
 
 Although India and China are the two most populous countries in the world, the consumption of electricity by these countries is very less compared to the third most populous country that is USA. USA uses the most electricity among all these countries. UK consumes about 25kWh more electricity than India and China despite it being the 21st populates country in the world. 
 
+# Production of electricity
+Although each of these nations has different needs and capacities for producing power for its citizens, each has done so in a variety of ways. Let's examine the three distinct ways that each of these nations produces power in more detail. Natural gas, oil and coal sources. 
+
+# electricity produced from natural gas sources (% of total)
+Due to its various economic and environmental benefits, natural gas has lately replaced coal as the main fossil fuel for the production of power. Coal and nuclear power plants dominated energy production in the 1970s and 1980s, but a shift to gas and gas plants has been pushed by a combination of economic, environmental, and technological factors.
+
+![Screenshot_20221029_084513](https://user-images.githubusercontent.com/112661889/198857697-f3e2a16d-cea0-45a5-b95e-bae656bfe17f.png)
+
+India has the least production of electricity from natural gas sources. USA due to its highest consumption produces more electricity that is about 45% more than what India produces. China also produces 40% less electricity than the United States from the natural gas sources. UK produces produces only about 10% less electricity than USA although its population is very less compared the USA. 
+
+
 
 
 
