@@ -25,9 +25,9 @@ Although each of these nations has different needs and capacities for producing 
 # Electricity produced from natural gas sources (% of total)
 Due to its various economic and environmental benefits, natural gas has lately replaced coal as the main fossil fuel for the production of power. Coal and nuclear power plants dominated energy production in the 1970s and 1980s, but a shift to gas and gas plants has been pushed by a combination of economic, environmental, and technological factors.
 
-![Screenshot_20221029_084513](https://user-images.githubusercontent.com/112661889/198857697-f3e2a16d-cea0-45a5-b95e-bae656bfe17f.png)
+![Screenshot_20221029_090614](https://user-images.githubusercontent.com/112661889/198858115-8368c11d-60d5-4023-bb4f-1f4f51885b8b.png)
 
-India has the least production of electricity from natural gas sources. USA due to its highest consumption produces more electricity that is about 45kWh more than what India produces. China also produces 40kWh less electricity than the United States from the natural gas sources. UK produces produces only about 10kWh less electricity than USA although its population is very less compared the USA. 
+China produces the least amount of electricity from natural gas sources among the four countries with about 1.8% of the total electricity. The production of electricity from natural gas sources by India however decreased over the past few years when compared to 2010 from over 11.5% to 4.9%. UK used to the largest producer of electricity in 2010 but the production decreased over the past few years. However the production of USA remained the same over years.  
 
 
 
