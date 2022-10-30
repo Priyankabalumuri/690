@@ -29,6 +29,12 @@ Due to its various economic and environmental benefits, natural gas has lately r
 
 China produces the least amount of electricity from natural gas sources among the four countries with about 1.8% of the total electricity. The production of electricity from natural gas sources by India however decreased over the past few years when compared to 2010 from over 11.5% to 4.9%. UK used to the largest producer of electricity in 2010 but the production decreased over the past few years. However the production of USA remained the same over years.  
 
+# Electricity produced from oil sources- 
+
+![Screenshot_20221029_092612](https://user-images.githubusercontent.com/112661889/198858620-0081b594-5922-4608-a1ee-de247925f157.png)
+
+India produces the most amount of electricity from oil sources. About half of the electricity(47%) produced by India is from oil sources. China produces the least amount of electricity from oil sources (6.7% of total). About 21% of the electricity produced by United States comes from Oil sources. About 1/4th of the electricity produced by United Kingdom comes from oil sources. 
+
 
 
 
