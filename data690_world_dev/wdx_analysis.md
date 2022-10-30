@@ -39,9 +39,19 @@ India produces the most amount of electricity from oil sources. About half of th
 
 ![Screenshot_20221029_094738](https://user-images.githubusercontent.com/112661889/198858917-c4fe6297-04e3-459e-a5c2-58c5732daa18.png)
 
-In every country, coal is used to generate electricity. According to data from the IEA, coal-fired power plants will continue to produce 22% of the world's electricity in 2040, keeping coal as the single greatest source of electricity globally. Coal-fired power plants currently provide 37% of the world's electricity.
+In every country, coal is used to generate electricity. According to data from the IEA, coal-fired power plants will continue to produce 22% of the world's electricity in 2040, keeping coal as the single greatest source of electricity globally. Coal-fired power plants currently provide 37% of the world's electricity. For the generation of power, all four of these nations rely on coal, which is also the most polluting because it emits more CO2 and other dangerous gases.
 
 Among these four countries, China produces the most electricity from coal. About 3/4th of the electricity consumed by China comes from coal. Next most production of electricity from coal is by India. India produces about 67% of its electricity from coal. United Kingdom is the least producer of electricity from coal with about 1/4th of the electricity coming from coal. USA produces nearly half of its electricity from coal. The major source of electricity from all these nations comes from coal.  
+
+# Electricity produced from oil, gas and coal sources (% of total)
+
+![Screenshot_20221029_101555](https://user-images.githubusercontent.com/112661889/198859577-9d54b917-1bd9-45fb-a3d8-ebee2b87a3a1.png)
+
+In 2015, coal, oil, and gas accounted for 81.2 percent of the electricity produced in India, compared to 79.4 percent in China, 70.27 percent in the US, and 70 percent in UK. 
+All four of these countries produce most of its electricity from oil, gas and coal sources. 
+
+
+
 
 
 
