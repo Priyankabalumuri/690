@@ -14,7 +14,8 @@ To maintain economic growth, enhance living standards, and end poverty, the glob
 # Electrical power consumption (kWh per capita)
 USA, UK, India and China are among the top 10 countries with highest GDP in 2022. Interestingly China, India and United states are the three most populous countries in the world with UK being the 21st country in terms of population. Despite the fact that these countries have vastly different populations, their electricity usage is not the same.The United States consumes more than 13 times as much electricity as India does. Of the four nations, the United States consumes the most power, whereas India uses the least.
 
-![Screenshot_20221029_080541](https://user-images.githubusercontent.com/112661889/198856905-c020f768-e391-4db1-93d1-4ecb8d445003.png)
+![Screenshot_20221029_081557](https://user-images.githubusercontent.com/112661889/198857096-91bebb03-3e83-4d71-931d-c48ef9827b0d.png)
+
 
 Although India and China are the two most populous countries in the world, the consumption of electricity by these countries is very less compared to the third most populous country that is USA. UK consumes about 25kWh more electricity than India and China despite it being the 21st populates country in the world. 
 
