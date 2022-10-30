@@ -51,6 +51,9 @@ In 2015, coal, oil, and gas accounted for 81.2 percent of the electricity produc
 All four of these countries produce most of its electricity from oil, gas and coal sources. 
 
 
+In conclusion, the amount of power generated and used in a country is inversely proportional to the amount of pollution it produces. We can see that a nation pollutes more the more it depends on fossil fuels to meet its energy demands. Making the transition to renewable energy sources for energy production is the simplest way to handle this. They too experience challenges with initial investment and other limitations. Even if nuclear power is a feasible option, it is expensive and difficult for any government to maintain, especially in developing nations. The challenges posed by fossil fuel extraction and the ensuing pollution are a reality that need attention.
+
+
 
 
 
